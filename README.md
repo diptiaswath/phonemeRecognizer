@@ -53,6 +53,11 @@ Validation Accuracy: 73.70%
 Training Accuracy: 42.53%
 ```
 
+Key Findings include: 
+* Overall recognition rate of ~74% for identifying 71 distinct speech sounds
+* Misclassifications occur mostly between similar-sounding phonemes
+* Clear distinctions maintained between very different sounds
+  
 ### Future Optimizations
 * Reduce dropout rates
 * Adjust batch normalization momentum
