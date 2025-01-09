@@ -64,7 +64,7 @@ Key Findings include:
 * Test alternative learning rate schedules
 
 ## Deep Dives
-https://www.notion.so/Understanding-Speech-Recognition-A-Hands-On-Guide-to-Phoneme-Classification-174fc6aa90f48091a278d99ccfb4eecf
+https://teal-morning-55a.notion.site/Understanding-Speech-Recognition-A-Hands-On-Guide-to-Phoneme-Classification-174fc6aa90f48091a278d99ccfb4eecf
 
 ### References
 * Deep Learning for AI, Carnegie Mellon University
